@@ -1,0 +1,11 @@
+id,date,type,category,amount,description
+1,2026-11-01,Income,Salary,15000.00,Monthly salary
+2,2026-11-02,Expense,Food,250.00,Lunch
+3,2026-11-02,Expense,Travel,100.00,Bus fare
+4,2026-11-03,Expense,Utilities,800.00,Electricity bill
+5,2026-11-04,Income,Freelance,2000.00,Small project
+6,2026-11-04,Expense,Shopping,650.00,Clothes
+7,2026-11-05,Expense,Food,180.00,Dinner
+8,2026-11-05,Expense,Food,2000.00,nasta
+9,2026-02-23,Expense,Food,400.00,sweets
+10,2026-02-27,Income,Travel,333333.00,traveling
